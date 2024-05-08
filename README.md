@@ -2,8 +2,8 @@
 
 Daniil Katulevskiy A17481234
 
-[expose.html](./expose.html)
-[explore.html](./explore.html)
+[expose.html](https://katulevskiy.github.io/Lab5_Starter/expose.html)
+[explore.html](https://katulevskiy.github.io/Lab5_Starter/explore.html)
 
 1. No, a unit test wouldn't be appropriate for the overall "message" feature because it's a complex feature that involves multiple components. An integration or end-to-end test would be better suited to verify that all related components work together correctly.
 
